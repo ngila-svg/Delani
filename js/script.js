@@ -1,8 +1,7 @@
 //business logic
 
 $(document).ready(function () {
-
-    //toggle what to do.
+    //When toggle
     $('#design').click(function () {
         $('#design-content').show(function () {
             $('#design').hide('fast');
