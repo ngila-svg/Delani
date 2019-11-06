@@ -13,7 +13,7 @@ Delani website is a platform for one to be able to view our recent projects
 ## live site:
 https://ngila-svg.github.io/Delani/.
  ## TECHNOLOGIES USED
- **PIzza place was created using HTML,CSS,BOOTSTRAP and JAVASCRIPT**
+ ** Delani Studio was created using HTML,CSS,BOOTSTRAP and JAVASCRIPT**
 ## BDD
 **Input** 
 This project hanesses the power of Jquery Library to make the user Experience on the top. The hide and show effects demonstrated in the What We Do section and the hover effect in the Portfolio Section both describe the Jquery power. Integration of Jquery and MailChimp API allows the visitors of delani studio website sent a message immediately receive  responce while allowing the the site administration to tract the list of messages from the website visitors.
